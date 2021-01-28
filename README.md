@@ -28,3 +28,5 @@
 - Repository -
 
 ## References
+
+Prof. Arthur Hendela Lectures (Week 2)

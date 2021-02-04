@@ -30,4 +30,5 @@
 ## References
 
 Prof. Arthur Hendela Lectures (Week 2, Week 3)
+
 https://git-scm.com/docs/gitglossary 

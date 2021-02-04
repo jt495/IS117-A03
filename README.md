@@ -29,4 +29,4 @@
 
 ## References
 
-Prof. Arthur Hendela Lectures (Week 2)
+Prof. Arthur Hendela Lectures (Week 2, Week 3)

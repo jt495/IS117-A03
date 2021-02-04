@@ -13,7 +13,7 @@
 
 - GIT -
 
-- Github -
+- Github - open source version control system
 
 - Merge - collapses 
 

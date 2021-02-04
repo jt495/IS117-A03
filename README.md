@@ -7,7 +7,7 @@
 
 - Clone - 
 
-- Commit -
+- Commit - stores new part of project 
 
 - Fetch -
 
@@ -15,18 +15,19 @@
 
 - Github - open source version control system
 
-- Merge - collapses 
+- Merge - brings content from one branch into the main branch 
 
 - Merge Conflict -
 
-- Push -
+- Push - gets the branch of a repository, 
 
-- Pull -
+- Pull - fetches a branch and merges it
 
-- Remote -
+- Remote - 
 
-- Repository -
+- Repository - collection of refs
 
 ## References
 
 Prof. Arthur Hendela Lectures (Week 2, Week 3)
+https://git-scm.com/docs/gitglossary 

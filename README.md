@@ -69,6 +69,7 @@ OR
 ## References
 
 Prof. Arthur Hendela Lectures (Week 2, Week 3)
-
+-
 https://git-scm.com/docs/gitglossary 
+-
 https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.&text=Cloning%20a%20local%20or%20remote%20repository

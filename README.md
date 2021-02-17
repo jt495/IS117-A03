@@ -37,18 +37,15 @@ OR
 - Select the committed file and click Push
 - File will now appear on Github
 
-### Github
-
-
 ## Glossary
 
 - Branch - set of development code that does not interfere with production system
 
-- Clone - creates a clone of an existing repository in an new directory at another location
+- Clone - creates a clone of an existing **repository** in an new directory at another location
 
-- Commit - stores new part of project into repository
+- Commit - stores new part of project into **repository**
 
-- Fetch - gets branch from repository, find which objects are missing from local database, and returns with missing objects added
+- Fetch - gets **branch** from **repository**, find which objects are missing from local database, and returns with missing objects added
 
 - GIT - a free content tracker used for storing code being developed by multiple people at once and seeing what changes were made by said developers
 
@@ -56,13 +53,13 @@ OR
 
 - Merge - brings content from one branch into the main branch 
 
-- Merge Conflict - 
+- Merge Conflict - event that occurs when **Git** is unable to automatically resolve differences in code between two commits
 
-- Push - gets a branch of a repository and its committed refs and updates the associated remote repository
+- Push - gets a branch of a **repository** and its committed refs and updates the associated remote repository
 
-- Pull - fetches a branch and merges it
+- Pull - fetches a **branch** and merges it
 
-- Remote - repository used to track project that exists elsewhere. Can be communicated via fetch, push, or pull
+- Remote - **repository** used to track project that exists elsewhere. Can be communicated via fetch, push, or pull
 
 - Repository - collection of refs
 
@@ -72,3 +69,4 @@ Prof. Arthur Hendela Lectures (Week 2, Week 3)
 https://git-scm.com/docs/gitglossary  
 https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.&text=Cloning%20a%20local%20or%20remote%20repository  
 https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
+https://blog.axosoft.com/learn-git-merge-conflict/#:~:text=A%20merge%20conflict%20is%20an,merge%20commits%20without%20your%20help.

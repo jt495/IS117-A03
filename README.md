@@ -8,15 +8,15 @@
 - https://git-scm.com/downloads
 3. Download Webstorm
 - https://www.jetbrains.com/student/
-4. Connect Github w/ Webstorm
+4. Connect **Github** w/ Webstorm
 - In Webstorm press (Ctrl+Alt+S) for system preferences.
-- Select Version control Git. 
+- Select Version control **Git**. 
 - Enter the path to the git.exe
 5. Create a **Repository** on Github
 - Click "+" sign in the upper right corner and select "New Repository"
 6. Create a **Repository** on Webstorm
 - Select VCS and Import int Version Control
-Import Repository from Github
+Import **Repository** from **Github**
 - From Main page, select Checkout from Version Control -> Git 
 OR
 - From within Webstorm, Select VCS -> Checkout from Version Control -> Git 
@@ -24,7 +24,7 @@ OR
 - Enter local path name
 
 ### Using Webstorm to **Push** a File to **Github**
-1. Create a Webstorm file
+1. Open Webstorm and create a Webstorm file
 - Go to File -> HTML -> HTML 5 OR File -> Stylesheet
 2. Add files to **Git**
 - Add to Git dialog box opens

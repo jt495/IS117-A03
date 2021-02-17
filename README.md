@@ -23,9 +23,9 @@ OR
 - Enter Github repository name
 - Enter local path name
 
-### Using Git/Github/Webstorm
+### Using Webstorm to **Push** a File to **Github**
 7. Create a Webstorm file
-- Go to File -> HTML -> HTML 5 or File -> Stylesheet
+- Go to File -> HTML -> HTML 5 OR File -> Stylesheet
 8. Add files to **Git**
 - Add to Git dialog box opens
 - Click Add. This adds to local file system
@@ -33,11 +33,11 @@ OR
 - On top of Webstorm, select VCS -> Git -> Commit
 - Text box with "msg added" will appear. Add/change any text and press blue "Commit" button
 10. **Push** changes to **Remote** Repository
-- Press "Ctrl" -> "Shift" -> "K" on keyboard
-OR
-- "VCS" -> "Git" -> "Push"
+- Press "Ctrl" -> "Shift" -> "K" on keyboard OR "VCS" -> "Git" -> "Push"
 - Select the committed file and click Push
 - File will now appear on Github
+
+### Github
 
 
 ## Glossary
@@ -50,7 +50,7 @@ OR
 
 - Fetch - gets branch from repository, find which objects are missing from local database, and returns with missing objects added
 
-- GIT - 
+- GIT - a free content tracker used for storing code being developed by multiple people at once and seeing what changes were made by said developers
 
 - Github - open source version control system
 
@@ -71,3 +71,4 @@ OR
 Prof. Arthur Hendela Lectures (Week 2, Week 3)  
 https://git-scm.com/docs/gitglossary  
 https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.&text=Cloning%20a%20local%20or%20remote%20repository  
+https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/

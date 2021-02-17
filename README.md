@@ -24,15 +24,15 @@ OR
 - Enter local path name
 
 ### Using Webstorm to **Push** a File to **Github**
-7. Create a Webstorm file
+1. Create a Webstorm file
 - Go to File -> HTML -> HTML 5 OR File -> Stylesheet
-8. Add files to **Git**
+2. Add files to **Git**
 - Add to Git dialog box opens
 - Click Add. This adds to local file system
-9. **Commit** your changes
+3. **Commit** your changes
 - On top of Webstorm, select VCS -> Git -> Commit
 - Text box with "msg added" will appear. Add/change any text and press blue "Commit" button
-10. **Push** changes to **Remote** Repository
+4. **Push** changes to **Remote** Repository
 - Press "Ctrl" -> "Shift" -> "K" on keyboard OR "VCS" -> "Git" -> "Push"
 - Select the committed file and click Push
 - File will now appear on Github

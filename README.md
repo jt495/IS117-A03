@@ -28,7 +28,7 @@ OR
 - Go to File -> HTML -> HTML 5 OR File -> Stylesheet
 2. Add files to **Git**
 - Add to Git dialog box opens
-- Click Add. This adds to local file system
+- Click Add
 3 **Commit** your changes
 - On top of Webstorm, select VCS -> Git -> Commit
 - Text box with "msg added" will appear. Add/change any text and press blue "Commit" button
@@ -57,7 +57,7 @@ OR
 
 - Push - gets a branch of a **repository** and its committed refs and updates the associated remote repository
 
-- Pull - fetches a **branch** and **merges** it
+- Pull - takes a branch from a **repository** and combines it with the **branch** on your computer
 
 - Remote - **repository** used to track project that exists elsewhere. Can be communicated via fetch, push, or pull
 

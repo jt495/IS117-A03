@@ -57,7 +57,7 @@ OR
 
 - Push - gets a branch of a **repository** and its committed refs and updates the associated remote repository
 
-- Pull - fetches a **branch** and merges it
+- Pull - fetches a **branch** and **merges** it
 
 - Remote - **repository** used to track project that exists elsewhere. Can be communicated via fetch, push, or pull
 

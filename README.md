@@ -8,7 +8,7 @@
 - https://git-scm.com/downloads
 3. Download Webstorm
 - https://www.jetbrains.com/student/
-4. Connect **Github** w/ Webstorm
+4. Connect **Github** with Webstorm
 - In Webstorm press (Ctrl+Alt+S) for system preferences.
 - Select Version control **Git**. 
 - Enter the path to the git.exe
@@ -29,7 +29,7 @@ OR
 2. Add files to **Git**
 - Add to Git dialog box opens
 - Click Add. This adds to local file system
-3. **Commit** your changes
+3 **Commit** your changes
 - On top of Webstorm, select VCS -> Git -> Commit
 - Text box with "msg added" will appear. Add/change any text and press blue "Commit" button
 4. **Push** changes to **Remote** Repository
